@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 import static ru.kondratenko.tm.constant.TerminalConst.*;
 
-public class Main {
+public class App {
 
     public static void main(final String[] args) {
         run(args);
