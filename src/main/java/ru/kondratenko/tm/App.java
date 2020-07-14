@@ -51,9 +51,5 @@ public class App {
         System.out.println("kondratenko_yg@nlmk.com");
         System.exit(0);
     }
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> 93d3fa1bbdd76edaa15d2edf5f0b36391dc24f14
 }
