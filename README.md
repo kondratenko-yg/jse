@@ -14,7 +14,7 @@ mvn install
 **Разработчик**
 Кондратенко Ю.Г. (kondratenko_yg@nlmk.com)
 
-**Запуск**
+**Запуск приложения**
 ```bash
 java -jar ./task-manager.jar
 ```
