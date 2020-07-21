@@ -17,5 +17,7 @@ mvn install
 java -jar ./task-manager.jar
 ```
 ## GITHUB
-SHH: git@github.com:kondratenko-yg/jse.git
-HTTPS: https://github.com/kondratenko-yg/jse.git
+### SHH: 
+git@github.com:kondratenko-yg/jse.git
+### HTTPS: 
+https://github.com/kondratenko-yg/jse.git
